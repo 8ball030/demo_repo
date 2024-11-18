@@ -1,5 +1,10 @@
 # cool_new_hack
 
+Run The agent
+
+```bash
+bash scripts/run_single_agent.sh eightballer/fun_hack --force
+```
 
 
 ## Table of Contents
